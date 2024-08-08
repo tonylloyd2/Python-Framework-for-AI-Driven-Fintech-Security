@@ -1,15 +1,1 @@
-streamlit
-pandas
-joblib
-scikit-learn
-plotly
-numpy
-pandas
-seaborn
-matplotlib
-optuna
-scikit-learn
-lightgbm
-catboost
-xgboost
-tabulate
+numpy==1.26.4
